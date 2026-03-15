@@ -8,7 +8,7 @@ Currently contributing to open source and exploring IoT systems.
 
 ## Tech Stack
 
-**Languages:** Java · JavaScript · SQL · Python (leanring)· PTypeScript (learning)  
+**Languages:** Java · JavaScript · SQL · Python (learning)· TypeScript (learning)  
 **Frontend:** React · HTML/CSS  
 **Backend:** Spring Boot · Spring Data JPA · REST APIs  
 **Databases:** PostgreSQL · MySQL  
@@ -18,7 +18,7 @@ Currently contributing to open source and exploring IoT systems.
 
 ## Projects
 
-### 🛰️ Satellite Collision Detection System
+### Satellite Collision Detection System
 Full-stack collision detection tool integrating with NASA's SpaceTrack API.
 Processes live orbital data for 500+ active satellites, evaluating ~125,000 
 unique pairs per run and classifying risk levels in real time.  
