@@ -1,8 +1,7 @@
 # Daniel Clarke
 
 Software developer based in Wicklow, Ireland. I build systems on real operational
-data — turbine telemetry, orbital data — rather than clean datasets, because the
-interesting problems are in the messiness.
+data such as turbine telemetry and satellite orbital data.
 
 HDip in Science in Computing (Software), First Class Honours, NCI 2025.
 Previously BSc Applied Psychology.
